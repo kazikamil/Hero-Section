@@ -1,0 +1,119 @@
+#logo
+{
+    
+    width: 100%;
+}
+#img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    position: relative;
+}
+table
+{
+
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -120px;
+}
+td
+{
+  width: 500px;
+}
+p
+{
+    position: relative;
+    top: -20px;
+    font-size:x-large;
+}
+h3
+{
+    font-size:40px;
+    color: #4186F5;
+}
+img
+{
+    width: 100%;
+    height: 100%;
+}
+button
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    position: relative;
+    top: -10px;  
+    width: 120px;
+    height: 35px;
+    background-color: #F9BB04;
+    color: white;
+    font-size: larger;
+    border: none;
+}
+button:hover
+{
+    background-color: #0A9E57;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+.cnx
+{
+    width: auto;
+    text-align: center;
+    font-size: x-large;
+    color: #EA4235;
+}
+.card
+{
+    display: inline-block;
+    text-align: center;
+    width: 124px;
+    height: 38px;
+    margin-right: 10px;
+    border-radius: 50px;
+     
+    color:black;
+   
+}
+.table
+{
+    width: 700px;
+    position: relative;
+    
+}
+#table
+{
+    top: -80px;
+   height:auto;
+}
+.centered-text
+{
+    position: relative;
+  font-size: large;
+  top: 2%;
+  transform: translateY(-50%);
+}
+#card1:hover
+{
+    background-color: #0A9E57;
+    color: white;
+}
+#card2:hover
+{
+    background-color:#EA4235;
+    color: white;
+
+}
+#card3:hover
+{
+    background-color:#F9BB04;
+    color: white;
+}
+#card4:hover
+{
+    background-color: #4186F5;
+    color: white;
+}
